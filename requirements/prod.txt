@@ -1,0 +1,2 @@
+-r base.txt  # Includes everything from base.txt
+gunicorn    # Production server (for web apps)

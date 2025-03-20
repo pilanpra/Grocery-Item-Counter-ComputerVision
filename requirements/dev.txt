@@ -1,0 +1,4 @@
+-r base.txt  # Includes everything from base.txt
+black        # Code formatter
+flake8       # Linter
+pytest       # Testing
